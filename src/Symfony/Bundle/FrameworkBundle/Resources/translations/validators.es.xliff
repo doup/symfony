@@ -20,11 +20,7 @@
             </trans-unit>
             <trans-unit id="5">
                 <source>The value you selected is not a valid choice</source>
-<<<<<<< HEAD
-                <target>El valor seleccionado no es una opción válida</target>
-=======
                 <target>El valor que ha seleccionado no es una opción valida</target>
->>>>>>> Spanish translation fixes
             </trans-unit>
             <trans-unit id="6">
                 <source>You must select at least {{ limit }} choices</source>
@@ -36,11 +32,7 @@
             </trans-unit>
             <trans-unit id="8">
                 <source>One or more of the given values is invalid</source>
-<<<<<<< HEAD
-                <target>Uno o más de los valores indicados no son válidos</target>
-=======
                 <target>Uno o más de los valores dados no son válidos</target>
->>>>>>> Spanish translation fixes
             </trans-unit>
             <trans-unit id="9">
                 <source>The fields {{ fields }} were not expected</source>
